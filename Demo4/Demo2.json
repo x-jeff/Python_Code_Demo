@@ -1,3 +1,11 @@
 [
-
+	user:{
+		name:Qoo,
+		gender:M,
+		age:12,
+	},
+	user:{
+		name:Mary,
+		gender:F,
+	}
 ]

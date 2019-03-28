@@ -1,0 +1,11 @@
+<users>
+	<user>
+		<name>Qoo</name>
+		<gender>M</gender>
+		<age>12</age>
+	</user>
+	<user>
+		<name>Mary</name>
+		<gender>F</gender>
+	</user>
+</users>

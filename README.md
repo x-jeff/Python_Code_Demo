@@ -21,3 +21,5 @@
 #### 【[Demo10](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo10)】[【Python基础】第十课：DataFrame的相关操作](http://shichaoxin.com/2020/02/02/Python基础-第十课-DataFrame的相关操作/)
 
 #### 【[Demo11](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo11)】[【Python基础】第十一课：处理缺失值](http://shichaoxin.com/2020/02/23/Python基础-第十一课-处理缺失值/)
+
+#### 【[Demo12](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo12)】[【Python基础】第十二课：类](http://shichaoxin.com/2020/04/02/Python基础-第十二课-类/)

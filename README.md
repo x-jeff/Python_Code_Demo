@@ -26,4 +26,6 @@
 
 #### 【[Demo12](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo12)】[【Python基础】第十二课：类](http://shichaoxin.com/2020/04/02/Python基础-第十二课-类/)
 
+#### 【[Demo13](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo13)】[【Python基础】第十三课：资料处理实战应用](http://shichaoxin.com/2020/05/20/Python基础-第十三课-资料处理实战应用/)
+
 ## 持续更新中......

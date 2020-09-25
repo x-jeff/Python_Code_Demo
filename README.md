@@ -32,4 +32,6 @@
 
 #### 【[Demo15](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo15)】[【Python基础】第十五课：处理时间格式资料](http://shichaoxin.com/2020/08/19/Python基础-第十五课-处理时间格式资料/)
 
+#### 【[Demo16](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo16)】[【Python基础】第十六课：重塑资料](http://shichaoxin.com/2020/09/25/Python基础-第十六课-重塑资料/)
+
 ## 持续更新中......

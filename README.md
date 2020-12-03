@@ -34,4 +34,6 @@
 
 #### 【[Demo16](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo16)】[【Python基础】第十六课：重塑资料](http://shichaoxin.com/2020/09/25/Python基础-第十六课-重塑资料/)
 
+#### 【[Demo17](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo17)】[【Python基础】第十七课：正则表达式](http://shichaoxin.com/2020/12/03/Python基础-第十七课-正则表达式/)
+
 ## 持续更新中......

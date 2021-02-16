@@ -36,4 +36,6 @@
 
 #### 【[Demo17](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo17)】[【Python基础】第十七课：正则表达式](http://shichaoxin.com/2020/12/03/Python基础-第十七课-正则表达式/)
 
+#### 【[Demo18](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo18)】[【Python基础】第十八课：时事新闻资料的爬取和处理](http://shichaoxin.com/2021/02/15/Python基础-第十八课-时事新闻资料的爬取和处理/)
+
 ## 持续更新中......

@@ -38,4 +38,6 @@
 
 #### 【[Demo18](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo18)】[【Python基础】第十八课：时事新闻资料的爬取和处理](http://shichaoxin.com/2021/02/15/Python基础-第十八课-时事新闻资料的爬取和处理/)
 
+#### 【[Demo19](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo19)】[【Python基础】第十九课：使用pandas产生叙述性统计](http://shichaoxin.com/2021/04/14/Python基础-第十九课-使用pandas产生叙述性统计/)
+
 ## 持续更新中......

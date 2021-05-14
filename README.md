@@ -40,4 +40,6 @@
 
 #### 【[Demo19](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo19)】[【Python基础】第十九课：使用pandas产生叙述性统计](http://shichaoxin.com/2021/04/14/Python基础-第十九课-使用pandas产生叙述性统计/)
 
+#### 【[Demo20](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo20)】[【Python基础】第二十课：使用pandas绘制统计图表](http://shichaoxin.com/2021/05/14/Python基础-第二十课-使用pandas绘制统计图表/)
+
 ## 持续更新中......

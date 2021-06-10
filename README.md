@@ -42,4 +42,6 @@
 
 #### 【[Demo20](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo20)】[【Python基础】第二十课：使用pandas绘制统计图表](http://shichaoxin.com/2021/05/14/Python基础-第二十课-使用pandas绘制统计图表/)
 
+#### 【[Demo21](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo21)】[【Python基础】第二十一课：网页浏览记录资料分析](http://shichaoxin.com/2021/06/09/Python基础-第二十一课-网页浏览记录资料分析/)
+
 ## 持续更新中......

@@ -44,4 +44,6 @@
 
 #### 【[Demo21](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo21)】[【Python基础】第二十一课：网页浏览记录资料分析](http://shichaoxin.com/2021/06/09/Python基础-第二十一课-网页浏览记录资料分析/)
 
+#### 【Demo22】[【Python基础】第二十二课：关系数据库-SQLite简介](http://shichaoxin.com/2021/06/27/Python基础-第二十二课-关系数据库-SQLite简介/)
+
 ## 持续更新中......

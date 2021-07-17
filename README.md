@@ -46,4 +46,6 @@
 
 #### 【Demo22】[【Python基础】第二十二课：关系数据库-SQLite简介](http://shichaoxin.com/2021/06/27/Python基础-第二十二课-关系数据库-SQLite简介/)
 
+#### 【[Demo23](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo23)】[【Python基础】第二十三课：SQLite数据库之数据存储](http://shichaoxin.com/2021/07/17/Python基础-第二十三课-SQLite数据库之数据存储/)
+
 ## 持续更新中......

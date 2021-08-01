@@ -48,4 +48,6 @@
 
 #### 【[Demo23](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo23)】[【Python基础】第二十三课：SQLite数据库之数据存储](http://shichaoxin.com/2021/07/17/Python基础-第二十三课-SQLite数据库之数据存储/)
 
+#### 【[Demo24](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo24)】[【Python基础】第二十四课：SQL Query的使用](http://shichaoxin.com/2021/07/30/Python基础-第二十四课-SQL-Query的使用/)
+
 ## 持续更新中......

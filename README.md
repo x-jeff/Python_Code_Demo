@@ -50,4 +50,6 @@
 
 #### 【[Demo24](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo24)】[【Python基础】第二十四课：SQL Query的使用](http://shichaoxin.com/2021/07/30/Python基础-第二十四课-SQL-Query的使用/)
 
+#### 【[Demo25](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo25)】[【Python基础】第二十五课：SQL实战应用之汇率资讯储存与管理](http://shichaoxin.com/2021/08/23/Python基础-第二十五课-SQL实战应用之汇率资讯储存与管理/)
+
 ## 持续更新中......

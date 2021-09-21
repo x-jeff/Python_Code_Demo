@@ -52,4 +52,6 @@
 
 #### 【[Demo25](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo25)】[【Python基础】第二十五课：SQL实战应用之汇率资讯储存与管理](http://shichaoxin.com/2021/08/23/Python基础-第二十五课-SQL实战应用之汇率资讯储存与管理/)
 
+#### 【[Demo26](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo26)】[【Python基础】第二十六课：回归模型](http://shichaoxin.com/2021/09/21/Python基础-第二十六课-回归模型/)
+
 ## 持续更新中......

@@ -54,4 +54,6 @@
 
 #### 【[Demo26](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo26)】[【Python基础】第二十六课：回归模型](http://shichaoxin.com/2021/09/21/Python基础-第二十六课-回归模型/)
 
+#### 【[Demo27](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo27)】[【Python基础】第二十七课：分类模型之决策树](http://shichaoxin.com/2021/10/17/Python基础-第二十七课-分类模型之决策树/)
+
 ## 持续更新中......

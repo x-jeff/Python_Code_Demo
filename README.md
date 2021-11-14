@@ -58,4 +58,6 @@
 
 #### 【[Demo28](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo28)】[【Python基础】第二十八课：分类模型之Logistic Regression](http://shichaoxin.com/2021/11/03/Python基础-第二十八课-分类模型之Logistic-Regression/)
 
+#### 【[Demo29](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo29)】[【Python基础】第二十九课：分类模型之SVM](http://shichaoxin.com/2021/11/13/Python基础-第二十九课-分类模型之SVM/)
+
 ## 持续更新中......

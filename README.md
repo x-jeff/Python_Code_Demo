@@ -60,4 +60,6 @@
 
 #### 【[Demo29](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo29)】[【Python基础】第二十九课：分类模型之SVM](http://shichaoxin.com/2021/11/13/Python基础-第二十九课-分类模型之SVM/)
 
+#### 【[Demo30](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo30)】[【Python基础】第三十课：分类模型之神经网络](http://shichaoxin.com/2021/11/29/Python基础-第三十课-分类模型之神经网络/)
+
 ## 持续更新中......

@@ -62,4 +62,6 @@
 
 #### 【[Demo30](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo30)】[【Python基础】第三十课：分类模型之神经网络](http://shichaoxin.com/2021/11/29/Python基础-第三十课-分类模型之神经网络/)
 
+#### 【[Demo31](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo31)】[【Python基础】第三十一课：分类模型之随机森林](http://shichaoxin.com/2021/12/12/Python基础-第三十一课-分类模型之随机森林/)
+
 ## 持续更新中......

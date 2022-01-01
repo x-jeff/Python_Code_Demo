@@ -64,4 +64,6 @@
 
 #### 【[Demo31](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo31)】[【Python基础】第三十一课：分类模型之随机森林](http://shichaoxin.com/2021/12/12/Python基础-第三十一课-分类模型之随机森林/)
 
+#### 【[Demo32](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo32)】[【Python基础】第三十二课：使用分类模型预测客户流失](http://shichaoxin.com/2022/01/01/Python基础-第三十二课-使用分类模型预测客户流失/)
+
 ## 持续更新中......

@@ -66,4 +66,6 @@
 
 #### 【[Demo32](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo32)】[【Python基础】第三十二课：使用分类模型预测客户流失](http://shichaoxin.com/2022/01/01/Python基础-第三十二课-使用分类模型预测客户流失/)
 
+#### 【[Demo33](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo33)】[【Python基础】第三十三课：混淆矩阵](http://shichaoxin.com/2022/01/27/Python基础-第三十三课-混淆矩阵/)
+
 ## 持续更新中......

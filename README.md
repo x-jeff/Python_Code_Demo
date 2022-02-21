@@ -68,4 +68,6 @@
 
 #### 【[Demo33](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo33)】[【Python基础】第三十三课：混淆矩阵](http://shichaoxin.com/2022/01/27/Python基础-第三十三课-混淆矩阵/)
 
+#### 【[Demo34](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo34)】[【Python基础】第三十四课：模型评估方法](http://shichaoxin.com/2022/02/15/Python基础-第三十四课-模型评估方法/)
+
 ## 持续更新中......

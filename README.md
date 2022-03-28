@@ -70,4 +70,6 @@
 
 #### 【[Demo34](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo34)】[【Python基础】第三十四课：模型评估方法](http://shichaoxin.com/2022/02/15/Python基础-第三十四课-模型评估方法/)
 
+#### 【[Demo35](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo35)】[【Python基础】第三十五课：ROC曲线](http://shichaoxin.com/2022/03/24/Python基础-第三十五课-ROC曲线/)
+
 ## 持续更新中......

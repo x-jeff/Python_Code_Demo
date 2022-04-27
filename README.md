@@ -72,4 +72,6 @@
 
 #### 【[Demo35](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo35)】[【Python基础】第三十五课：ROC曲线](http://shichaoxin.com/2022/03/24/Python基础-第三十五课-ROC曲线/)
 
+#### 【[Demo36](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo36)】[【Python基础】第三十六课：评估不同客户流失分析模型](http://shichaoxin.com/2022/04/14/Python基础-第三十六课-评估不同客户流失分析模型/)
+
 ## 持续更新中......

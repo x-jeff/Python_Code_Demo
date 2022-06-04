@@ -74,4 +74,6 @@
 
 #### 【[Demo36](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo36)】[【Python基础】第三十六课：评估不同客户流失分析模型](http://shichaoxin.com/2022/04/14/Python基础-第三十六课-评估不同客户流失分析模型/)
 
+#### 【[Demo37](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo37)】[【Python基础】第三十七课：使用Python实现层次聚类](http://shichaoxin.com/2022/05/09/Python基础-第三十七课-使用Python实现层次聚类/)
+
 ## 持续更新中......

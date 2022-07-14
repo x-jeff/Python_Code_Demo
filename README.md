@@ -76,4 +76,6 @@
 
 #### 【[Demo37](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo37)】[【Python基础】第三十七课：使用Python实现层次聚类](http://shichaoxin.com/2022/05/09/Python基础-第三十七课-使用Python实现层次聚类/)
 
+#### 【[Demo38](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo38)】[【Python基础】第三十八课：使用Python实现k-means聚类](http://shichaoxin.com/2022/07/01/Python基础-第三十八课-使用Python实现k-means聚类/)
+
 ## 持续更新中......

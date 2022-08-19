@@ -78,4 +78,6 @@
 
 #### 【[Demo38](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo38)】[【Python基础】第三十八课：使用Python实现k-means聚类](http://shichaoxin.com/2022/07/01/Python基础-第三十八课-使用Python实现k-means聚类/)
 
+#### 【[Demo39](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo39)】[【Python基础】第三十九课：使用Python实现DBSCAN聚类](http://shichaoxin.com/2022/08/12/Python基础-第三十九课-使用Python实现DBSCAN聚类/)
+
 ## 持续更新中......

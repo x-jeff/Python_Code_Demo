@@ -80,4 +80,6 @@
 
 #### 【[Demo39](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo39)】[【Python基础】第三十九课：使用Python实现DBSCAN聚类](http://shichaoxin.com/2022/08/12/Python基础-第三十九课-使用Python实现DBSCAN聚类/)
 
+#### 【[Demo40](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo40)】[【Python基础】第四十课：聚类结果评估](http://shichaoxin.com/2022/10/26/Python基础-第四十课-聚类结果评估/)
+
 ## 持续更新中......

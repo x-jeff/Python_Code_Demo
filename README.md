@@ -82,4 +82,6 @@
 
 #### 【[Demo40](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo40)】[【Python基础】第四十课：聚类结果评估](http://shichaoxin.com/2022/10/26/Python基础-第四十课-聚类结果评估/)
 
+#### 【[Demo41](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo41)】[【Python基础】第四十一课：聚类算法实战---找出文章主题](http://shichaoxin.com/2022/12/15/Python基础-第四十一课-聚类算法实战-找出文章主题/)
+
 ## 持续更新中......

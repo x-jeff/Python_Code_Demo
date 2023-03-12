@@ -84,4 +84,6 @@
 
 #### 【[Demo41](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo41)】[【Python基础】第四十一课：聚类算法实战---找出文章主题](http://shichaoxin.com/2022/12/15/Python基础-第四十一课-聚类算法实战-找出文章主题/)
 
+#### 【[Demo42](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo42)】[【Python基础】第四十二课：特征筛选](http://shichaoxin.com/2023/01/28/Python基础-第四十二课-特征筛选/)
+
 ## 持续更新中......

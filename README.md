@@ -86,4 +86,6 @@
 
 #### 【[Demo42](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo42)】[【Python基础】第四十二课：特征筛选](http://shichaoxin.com/2023/01/28/Python基础-第四十二课-特征筛选/)
 
+#### 【[Demo43](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo42)】[【Python基础】第四十三课：PCA](http://shichaoxin.com/2023/04/11/Python基础-第四十三课-PCA/)
+
 ## 持续更新中......

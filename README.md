@@ -90,4 +90,6 @@
 
 #### 【[Demo44](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo44)】[【Python基础】第四十四课：SVD](http://shichaoxin.com/2023/06/01/Python基础-第四十四课-SVD/)
 
+#### 【[Demo45](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo45)】[【Python基础】第四十五课：使用SVD压缩图片](http://shichaoxin.com/2023/07/21/Python基础-第四十五课-使用SVD压缩图片/)
+
 ## 持续更新中......

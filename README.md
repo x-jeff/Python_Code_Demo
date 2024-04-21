@@ -94,4 +94,6 @@
 
 #### 【[Demo46](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo46)】[【Python基础】第四十六课：关联分析](http://shichaoxin.com/2023/09/28/Python基础-第四十六课-关联分析/)
 
+#### 【[Demo47](https://github.com/x-jeff/Python_Code_Demo/tree/master/Demo47)】[【Python基础】第四十七课：频繁样式探勘](http://shichaoxin.com/2023/12/27/Python基础-第四十七课-频繁样式探勘/)
+
 ## 持续更新中......
